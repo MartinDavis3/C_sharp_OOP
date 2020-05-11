@@ -1,12 +1,13 @@
 ﻿using System;
 
-namespace C__OOP
+namespace polymorphism
 {
+
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            
         }
     }
 }

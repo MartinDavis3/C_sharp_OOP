@@ -1,0 +1,11 @@
+C:\Users\Martin\Documents\SoftwareDevelopment\C#_OOP\bin\Debug\netcoreapp3.1\C#_OOP.exe
+C:\Users\Martin\Documents\SoftwareDevelopment\C#_OOP\bin\Debug\netcoreapp3.1\C#_OOP.deps.json
+C:\Users\Martin\Documents\SoftwareDevelopment\C#_OOP\bin\Debug\netcoreapp3.1\C#_OOP.runtimeconfig.json
+C:\Users\Martin\Documents\SoftwareDevelopment\C#_OOP\bin\Debug\netcoreapp3.1\C#_OOP.runtimeconfig.dev.json
+C:\Users\Martin\Documents\SoftwareDevelopment\C#_OOP\bin\Debug\netcoreapp3.1\C#_OOP.dll
+C:\Users\Martin\Documents\SoftwareDevelopment\C#_OOP\bin\Debug\netcoreapp3.1\C#_OOP.pdb
+C:\Users\Martin\Documents\SoftwareDevelopment\C#_OOP\obj\Debug\netcoreapp3.1\C#_OOP.csprojAssemblyReference.cache
+C:\Users\Martin\Documents\SoftwareDevelopment\C#_OOP\obj\Debug\netcoreapp3.1\C#_OOP.AssemblyInfoInputs.cache
+C:\Users\Martin\Documents\SoftwareDevelopment\C#_OOP\obj\Debug\netcoreapp3.1\C#_OOP.AssemblyInfo.cs
+C:\Users\Martin\Documents\SoftwareDevelopment\C#_OOP\obj\Debug\netcoreapp3.1\C#_OOP.dll
+C:\Users\Martin\Documents\SoftwareDevelopment\C#_OOP\obj\Debug\netcoreapp3.1\C#_OOP.pdb
