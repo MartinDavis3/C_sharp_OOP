@@ -1,21 +1,33 @@
 ﻿using System;
 
-namespace abstraction {
+namespace encapsulation {
+    class User {
+        private string username;
+        private string password;
+        public string MyUsername {
+            get {
+                return username;
+            } set {
+                username = value;
+            }
+        }
+        public string MyPassword {
+            get {
+                return password;
+            } set {
+                password = value;
+            }
+        }
+    }
     class Program {
-        abstract class SecretMessage {
-            public void mySecretMessage() {
-                Console.WriteLine("This is my secret message");
-            }
-        }
-        class PublicMessage : SecretMessage {
-            public void myPublicMessage() {
-                Console.WriteLine("Everyone can see this message");
-            }
-        }
-        static void MainAbstraction(string[] args) {
-            PublicMessage myPubMsg = new PublicMessage();
-            myPubMsg.myPublicMessage();
-            myPubMsg.mySecretMessage();
+        static void Main(string[] args) {
+            User myUser = new User();
+            myUser.MyUsername = "jsmith";
+            myUser.MyPassword = "password";
+            Console.WriteLine("Username: " + myUser.MyUsername);
+            string myOutput = myUser.MyPassword;
+            Console.WriteLine(myOutput);
+            Console.WriteLine("Password: " + myUser.MyPassword);
         }
     }
 }
