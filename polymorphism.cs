@@ -21,7 +21,7 @@ namespace polymorphism
             }
         }
 
-        static void Main(string[] args)
+        static void MainPolymorhism(string[] args)
         {
             Animal myAnimal = new Animal();
             Pig myPig = new Pig();
