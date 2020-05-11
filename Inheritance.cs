@@ -17,7 +17,7 @@ namespace inheritance
     }
     class Program
     {
-        static void Main(string[] args)
+        static void MainInheritance(string[] args)
         {
             User newUser = new User();
             newUser.greet();
